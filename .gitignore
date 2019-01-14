@@ -1,0 +1,5 @@
+/venv
+/bash_completion.d
+zsh-completion
+
+.idea
